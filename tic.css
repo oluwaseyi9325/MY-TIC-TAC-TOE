@@ -1,0 +1,51 @@
+.container{
+    background-color: grey !important;
+    width: 30% !important;
+    border-radius: 20px;
+    border: 10px solid lightgray ;
+}
+.player-name{
+    background-color: lightgray !important;
+    text-align: center;
+    font-style: italic !important;
+}
+.game-name{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 2px 3px 2px  black;
+}
+body{
+    background-color: whitesmoke !important;
+}
+.sign-put{
+    height: 90px;
+    width: 90px;
+}
+.nameall{
+    color: black !important;
+    font-style: italic !important;
+    text-shadow: 2px 5px 2px lightgray;
+    border:  0px solid white;
+    padding: 6px;
+    background-color: white;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+@media screen and (max-width:1030px) {
+    .container{
+        
+        background-color:  grey!important;
+        width: 80% !important;
+        border-radius: 20px;
+        border: 10px solid lightgray ;
+        
+    }
+    #media{
+    
+     margin-top: 20px !important;
+    }
+    
+}
