@@ -20,6 +20,7 @@ body{
 .sign-put{
     height: 90px;
     width: 90px;
+    padding-bottom: 10px !important;
 }
 .nameall{
     color: black !important;

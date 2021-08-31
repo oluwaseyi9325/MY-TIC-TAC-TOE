@@ -271,5 +271,16 @@ function rePlay() {
     
     
 }
+ function showSign(e){
+     if(e.target.value== "X" ){
+        
+        
+     } else{
+      e.target.value="O"
 
-alert("ADEDOKUN");
+     }
+     
+
+ }
+
+alert("ADEDOKUN dhdhd");
